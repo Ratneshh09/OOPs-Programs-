@@ -6,3 +6,8 @@ A constructor to initialize polynomial coefficients.
 An overloaded + operator to add two quadratic polynomials.
 
 3} Concepts of console I/O operations.
+
+4}The CppArray class is a custom array with range checking, deep copy support, and input/output functionality.
+
+
+
