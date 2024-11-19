@@ -9,6 +9,6 @@ An overloaded + operator to add two quadratic polynomials.
 
 4}The CppArray class is a custom array with range checking, deep copy support, and input/output functionality.
 
-5) The program prompts the user to input two numbers (num1, num2) and an operator (+, -, *, /)
+5) The program prompts the user to input two numbers (num1, num2) and an operator (+, -, *, /) 
 
 
